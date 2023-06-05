@@ -1,0 +1,2 @@
+Logs Modified
+Handle ConcurrentHashMap throws a NullPointerException
