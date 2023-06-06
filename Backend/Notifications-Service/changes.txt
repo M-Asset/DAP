@@ -1,3 +1,0 @@
-main file --> @SpringBootApplication()
-Logs Modified
-Handle ConcurrentHashMap throws a NullPointerException
