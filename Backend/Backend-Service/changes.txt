@@ -1,4 +1,10 @@
     private final List<String> defaultPrivileges = new ArrayList<>(Arrays.asList(
             Defines.DEFAULT_PATHS.GET_NOTIFICATIONS,
-            Defines.DEFAULT_PATHS.ADD_LOGS
+            Defines.DEFAULT_PATHS.ADD_LOGS,
+            Defines.DEFAULT_PATHS.DASHBOARD,
+            Defines.DEFAULT_PATHS.AGG_DASHBOARD
     ));
+
+response code 402 has been changed to 403
+functions renamed
+private functions added
