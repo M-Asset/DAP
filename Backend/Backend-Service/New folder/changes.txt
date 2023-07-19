@@ -1,4 +1,0 @@
-    private final List<String> defaultPrivileges = new ArrayList<>(Arrays.asList(
-            Defines.DEFAULT_PATHS.GET_NOTIFICATIONS,
-            Defines.DEFAULT_PATHS.ADD_LOGS
-    ));
